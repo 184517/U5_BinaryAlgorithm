@@ -1,4 +1,8 @@
-﻿using System;
+/*Jordan Ross
+May 27, 2019
+Binary with algorithm
+*/
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
